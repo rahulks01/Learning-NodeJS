@@ -17,7 +17,7 @@ console.log(fs.statSync("./test.txt"));
 fs.mkdirSync("my-docs");
 fs.mkdirSync("my-docsss/a/b", { recursive: true });
 
-/******  Asynchronus Call  ******/
+/*******  Asynchronus Call  *******/
 fs.writeFile("./test2.txt", "Hello World Async", (err) => {});
 
 fs.readFile("./contacts.txt", "utf-8", (err, result) => {
