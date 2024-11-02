@@ -1,7 +1,8 @@
 const fs = require("fs");
 const os = require("os");
 
-console.log(os.cpus().length); //Find number of cores
+//Find number of cores
+console.log(os.cpus().length);
 
 /****** Blocking... ******/
 console.log("1");
