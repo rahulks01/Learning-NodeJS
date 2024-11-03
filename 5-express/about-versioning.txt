@@ -1,0 +1,34 @@
+// Version
+
+// 4.18.2
+
+1st Part --> 4
+2nd Part --> 18
+3rd Part --> 2
+
+/ 3rd Part (Last Part) - Minor fixes (Optional)
+Latest -> 4.18.5
+
+/ 2nd Part - Recommended bug fixes (Security Fix)
+Latest -> 18
+
+/ 1st Part - Major release (Major / Breaking Update)
+Latest -> 5(beta)
+
+express = ^4.21.1
+4th Version
+
+^ - Install all Recommended and Minor releases / fixes automatically
+^4.21.1 ==> | 4.21.1 -> < 5.0.0 can be installed
+^4.17.9
+4.18.1
+4.18.2
+4.18.3
+4.18.4
+
+5.1.0 (x)
+
+~ - Install all Minor releases / fixes automatically 
+~4.21.1 -> 4.21.2 -> 4.21.3
+
+4.22.1 Noooooo.....
