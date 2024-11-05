@@ -1,0 +1,18 @@
+// RESTful API
+
+1. Client - Server Architecture
+    The idea is that the client and the server should not be 
+    dependent on each other each of them should act as a single entity.
+    We should always try to send the response from the server in the
+    JSON format.
+
+2. Always respect all HTTP methods
+    GET    POST    PUT    PATCH    DELETE
+    GET /user -> Read user's data and return data
+    POST /user -> Handle new user's creation
+    PATCH /user -> Update the user
+    .
+    .
+    
+    POST /update-user -> user update  (X)
+    POST /delete-user -> delete user  (X)
