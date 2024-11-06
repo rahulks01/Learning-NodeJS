@@ -1,0 +1,6 @@
+
+1730924649114:::1 GET: /api/users
+
+1730924688732:::1 POST: /api/users
+
+1730924712708:::1 GET: /api/users/672bd0900a04abadb50b6cab
