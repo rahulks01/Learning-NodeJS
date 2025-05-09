@@ -16,4 +16,4 @@ You can explore and run the codes by executing the following command on your ter
 ```bash
 git clone https://github.com/rahulks01/Learning-NodeJS.git
 ```
-Feel free to explore and contribute!
+Feel free to explore!
